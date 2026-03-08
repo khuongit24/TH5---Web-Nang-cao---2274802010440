@@ -1,4 +1,4 @@
-**Cần thư viện và .env để chạy**
+**Cần thư viện và .env để chạy. Yêu cầu Node.js v18 trở lên**
 
 Ví dụ .env:
 
