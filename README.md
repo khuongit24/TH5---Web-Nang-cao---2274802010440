@@ -11,3 +11,9 @@ SESSION_SECRET=th5_secret_key_cua_khuong
 Cài đặt thư viện: npm install
 
 Khởi chạy: npm start
+
+
+**Postman setup**: 
+
+Chỉ cần import file TH5_Khuong_API.postman_collection.json vào app Postman.
+
